@@ -9,9 +9,9 @@ const useStyles = makeStyles((theme) => ({
      
       color: 'hsl(0, 100%, 30%);',
       padding: '16px 32px',
-      height: 15,
-       width: 15,
-       border: '5px solid pink',
+      height: 8,
+       width: 8,
+       border: '3px solid pink',
     
     },
   },
